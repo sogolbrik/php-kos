@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost", "root", "", "kos");
+$conn = mysqli_connect("localhost", "root", "", "php-kos");
 
 
 function tampil_satu($table, $where = "")
